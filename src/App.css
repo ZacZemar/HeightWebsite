@@ -1,0 +1,112 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Sans', sans-serif;
+}
+
+.home,
+.countryselect,
+.heightfactor,
+.gettaller,
+.sign-up,
+.unitedstates,
+.india,
+.ukraine,
+.germany {
+  display: flex;
+  height: 90vh;
+  align-items: center;
+  justify-content: center;
+  font-size: 3rem;
+}
+
+.home {
+  background-image: url('./images/WorldMap.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.countryselect {
+  background-image: url('./images/Bahamas.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.heightfactor {
+  background-image: url('./images/RedWoodTree.jpg');
+  background-position: center;
+  background-size: fill;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.gettaller {
+  background-image: url('./images/MeasuringChildHeight.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+  height: 1300px;
+}
+
+.sign-up {
+  background-image: url('./images/Giraffe.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+  height: 1300px;
+}
+
+.unitedstates {
+  background-image: url('./images/UnitedStates.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+  height: 1300px;
+}
+
+.india {
+  background-image: url('./images/India.jpg');
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+}
+
+.ukraine {
+  background-image: url('./images/Ukraine.jpg');
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+  height: 1300px; /* Adjust the height as needed */
+}
+
+.germany {
+  background-image: url('./images/Germany.jpg');
+  background-position: top;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #fff;
+  font-size: 100px;
+  height: 1300px; /* Adjust the height as needed */
+}
+
+
+
+
